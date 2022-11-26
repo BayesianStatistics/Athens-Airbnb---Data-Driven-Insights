@@ -17,3 +17,4 @@ The main aim of this project is to explore the data of Athens Airbnb rental acti
 Numpy, Pandas, Matplotlib, Seaborn, Unidecode, Calendar, Datetime, Tabulate, Sklearn
 
 ## Summary Data Insights
+[Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/)
