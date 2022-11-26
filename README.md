@@ -7,3 +7,5 @@ The main aim of this project is to explore the data of Athens Airbnb rental acti
 * Q1: Which is the best period to visit Athens?
 * Q2: Which are most expensive, popular property and room types in Athens?
 
+## Data Source Description
+
