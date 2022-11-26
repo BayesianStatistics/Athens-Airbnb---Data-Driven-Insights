@@ -11,4 +11,7 @@ The main aim of this project is to explore the data of Athens Airbnb rental acti
 
 ## Data Source Description
 * Data files: Athens Listing and Calendar Dataset
-* Jupyter Notebooks: Athens_AirBnb_Analysis.ipynb 
+* Jupyter notebook: Athens_AirBnb_Analysis.ipynb 
+
+##Library Packages
+
