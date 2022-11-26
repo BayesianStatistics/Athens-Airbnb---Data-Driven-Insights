@@ -1,4 +1,4 @@
 # Athens Airbnb - Data Driven Insights
 ---
 
-Comparative analysis of Seattle and Boston Airbnb data as part of first project in Udacity Data Science Nanodegree Program.
+Data driven analysis summary for the project requirements of Udacity Data Science Nanodegree Curriculum.
