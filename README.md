@@ -6,8 +6,7 @@ The main aim of this project is to explore the data of Athens Airbnb rental acti
 
 * Q1: Which is the best period to visit Athens?
 * Q2: Which are most expensive, popular property and room types in Athens?
-* ....
-* ....
+* Q3: Which are most important factors of rental landscape activity that decide the reservation price?
 
 ## Data Source Description
 * Data files: Athens Listing and Calendar Datasets [Athens Airbnb 23/12/2021]http://insideairbnb.com/get-the-data
@@ -17,4 +16,6 @@ The main aim of this project is to explore the data of Athens Airbnb rental acti
 Numpy, Pandas, Matplotlib, Seaborn, Unidecode, Calendar, Datetime, Tabulate, Sklearn
 
 ## Summary Data Insights
+The analysis is shared
 
+I have posted a detailed analysis on Medium post here.
