@@ -18,7 +18,7 @@ Numpy, Pandas, Matplotlib, Seaborn, Unidecode, Calendar, Datetime, Tabulate, Skl
 ## Summary Data Insights
 All the analysis is shared here https://medium.com/@alexispolymeropoulos/athens-airbnb-data-driven-insights-2baf01f52814
 
-I have posted a detailed analysis on Medium post here.
+I have posted a detailed analysis on Medium post here https://medium.com/@alexispolymeropoulos/athens-airbnb-data-driven-insights-2baf01f52814.
 
 ## Acknowledgements
 I would like to thank [Deep Chatterjee]https://ai.plainenglish.io/airbnb-data-analysis-seattle-and-boston-4e1f608688e3 for his interesting and clearly guided post for inspiring me to create my own blog and big thanks go of course to [Alexandra Deis]https://www.kaggle.com/code/aleksandradeis/airbnb-seattle-reservation-prices-analysis/notebook for enlighting the ideas of python code data preproccessing through her wonderful results of Kaggle.
