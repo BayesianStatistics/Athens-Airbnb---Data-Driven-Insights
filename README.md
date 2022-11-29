@@ -5,7 +5,7 @@ Data analysis of Athens Airbnb data for the project requirements of Udacity Data
 The main aim of this project is to explore the data of Athens Airbnb rental activity and find out important insights that are related to the reservation price trends and the key factors surrounding them. Based on these considerations, I decided to focus on the following business requirements in order to help future investors to set up their own business planning based on:
 
 * Q1: Which is the best period to visit Athens?
-* Q2: Which are most expensive, popular property and room types in Athens?
+* Q2: Which are most expensive, popular properties and room types in Athens?
 * Q3: Which are most important factors of rental landscape activity that decide the reservation price?
 
 ## Data Source Description
